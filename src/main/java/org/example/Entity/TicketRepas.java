@@ -11,6 +11,7 @@ public class TicketRepas {
     private String nourriture;
     private LocalDateTime dateRepas;
     private Animal animal;
+    private Repas repas;
 
 
     @Override

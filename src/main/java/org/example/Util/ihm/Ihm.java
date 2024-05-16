@@ -1,10 +1,10 @@
-package org.example.Util;
+package org.example.Util.ihm;
 
 import org.example.DAO.AnimalDAO;
 import org.example.DAO.TicketRepasDAO;
 import org.example.Entity.Animal;
 import org.example.Entity.TicketRepas;
-
+import org.example.Util.DataBaseManager;
 
 
 import java.sql.Connection;
